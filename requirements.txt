@@ -1,0 +1,8 @@
+streamlit
+geopandas
+fiona
+shapely
+matplotlib
+contextily
+pyproj
+matplotlib-scalebar
