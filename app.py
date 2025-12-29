@@ -171,7 +171,7 @@ if file:
         with col_prem:
             st.subheader(t["premium_ver"])
             st.write(t["premium_desc"])
-            st.link_button(t["btn_pdf_venda"], "https://pestanaeu.gumroad.com/l/npjzo", use_container_width=True)
+            st.link_button(t["btn_pdf_venda"], "https://pestanaeu.gumroad.com/l/mapa-propriedade", use_container_width=True)
             
             # BOTÃO ADMIN (Apenas para o proprietário da app gerar o ficheiro pago)
             buf_pdf = io.BytesIO()
